@@ -1,0 +1,7 @@
+{
+  "name": "mh-rooms",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
